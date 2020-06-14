@@ -1,3 +1,73 @@
+:::abc
+X: 1
+T: Seven Day Fool Verse (x2)
+M: 48/4
+K: C
+Q: 125
+V:1 clef=perc
+L: 1/16
+| A2A2A2A2 A2A2A2A2    | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2
+| A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 
++
+| A2A2A2A2 A2A2A2A2    | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2
+| A2A2A2A2 A2A2A2A2    | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2
+V:2 clef=perc
+L: 1/16
+| z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4   | z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4 
+| z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4   | z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4 
++
+| z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4   | z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4 
+| z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4   | z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4 
+V:3 clef=perc
+L: 1/16
+| C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4 | C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4
+| C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4 | C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4
++
+| C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4 | C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4
+| C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4 | C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4
+:::
+
+
+:::abc
+X: 1
+T: Seven Day Fool Pre-chorus
+M: 48/4
+K: C
+Q: 125
+V:1 clef=perc
+L: 1/16
+| A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 
+| A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 
+V:2 clef=perc
+L: 1/16
+| z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4   | z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4 
+| z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4   | z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4 
+V:3 clef=perc
+L: 1/16
+| C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4 | C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4
+| C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4 | C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4
+:::
+
+:::abc
+X: 1
+T: Seven Day Fool Chorus
+M: 48/4
+K: C
+Q: 125
+V:1 clef=perc
+L: 1/16
+| A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 
+| A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 | A2A2A2A2 A2A2A2A2 
+V:2 clef=perc
+L: 1/16
+| z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4   | z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4 
+| z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4   | z4 B2`B2  z4 B4 | z4 B2`B2  z4 B4 
+V:3 clef=perc
+L: 1/16
+| C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4 | C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4
+| C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4 | C4 z4   z2 C2 z4 | C4 z4   C2`C2 z4
+:::
+
 And on a Monday,
 
 I'm gonna love ya
